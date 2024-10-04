@@ -12,6 +12,7 @@ Presentation Type: Poster
 Session: U13A: Accelerating Scientific Discovery and Interdisciplinary Collaboration Through Cloud Computing Hubs and Tools II Poster  
 Date & Time: Monday, 9 December 2024, 13:40 – 17:30 EST  
 Location:  Washington Convention Center, Hall D (Poster Hall)  
+Point of Contact: Julie Lowndes
 
 Abstract ID: 1709763  
 Abstract Title: Including more solutions and more solvers via actionable open science  
@@ -19,6 +20,7 @@ Presentation Type: Poster
 Session: IN13A: Flourishing Science Commons: Data Science, Open Science, and Knowledge Communities Poster  
 Date & Time: Monday, 9 December 2024, 13:40 – 17:30 EST  
 Location:  Washington Convention Center, Hall D (Poster Hall)  
+Point of Contact: Julie Lowndes
 
 ## Wednesday Dec 11
 
@@ -29,3 +31,4 @@ Presentation Type: Poster
 Session: IN31E: Showcasing Your Earth Data Products, Tools, and Services III Poster  
 Date & Time: Wednesday, 11 December 2024, 08:30 – 12:20 EST  
 Location:  Washington Convention Center, Hall D (Poster Hall)  
+Point of Contact: Amy Steiker
