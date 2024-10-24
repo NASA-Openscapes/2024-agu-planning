@@ -1,8 +1,6 @@
 # Activities by NASA Openscapes folks and collaborators
 
-**[AGU Searchable Schedule](https://www.agu.org/annual-meeting/schedule)**
-
-December 9-13, 2024
+To be filled out as we have information, like we did in 2023: https://github.com/NASA-Openscapes/2023-planning-agu/
 
 Dec 14 (Saturday before) Pangeo meeting hackday: https://discourse.pangeo.io/t/post-agu-pangeo-working-meeting-december-14-2024-in-washington-dc/4440
 
@@ -15,6 +13,7 @@ Session: U13A: Accelerating Scientific Discovery and Interdisciplinary Collabora
 Date & Time: Monday, 9 December 2024, 13:40 – 17:30 EST  
 Location:  Washington Convention Center, Hall D (Poster Hall)  
 Point of Contact: Julie Lowndes
+[Link to program entry.](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1708480)
 
 Abstract ID: 1709763  
 Abstract Title: Including more solutions and more solvers via actionable open science  
@@ -23,6 +22,7 @@ Session: IN13A: Flourishing Science Commons: Data Science, Open Science, and Kno
 Date & Time: Monday, 9 December 2024, 13:40 – 17:30 EST  
 Location:  Washington Convention Center, Hall D (Poster Hall)  
 Point of Contact: Julie Lowndes
+[Link to program entry.](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1709763)
 
 ## Wednesday Dec 11
 
@@ -34,3 +34,4 @@ Session: IN31E: Showcasing Your Earth Data Products, Tools, and Services III Pos
 Date & Time: Wednesday, 11 December 2024, 08:30 – 12:20 EST  
 Location:  Washington Convention Center, Hall D (Poster Hall)  
 Point of Contact: Amy Steiker
+[Link to program entry.](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1706883)
