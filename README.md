@@ -6,32 +6,40 @@ Dec 14 (Saturday before) Pangeo meeting hackday: https://discourse.pangeo.io/t/p
 
 ## Monday Dec 09
 
-Abstract ID: 1708480  
-Abstract Title: Supporting NASA Earthdata users in the Cloud: NASA Openscapes JupyterHub and User Onboarding & Fledging  
-Presentation Type: Poster  
+<details>
+<summary>Poster: Supporting NASA Earthdata users in the Cloud: NASA Openscapes JupyterHub and User Onboarding & Fledging. 13:40 – 17:30 EST. Point of Contact: Julie Lowndes
+</summary> 
+  
+<https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1708480>
 Session: U13A: Accelerating Scientific Discovery and Interdisciplinary Collaboration Through Cloud Computing Hubs and Tools II Poster  
-Date & Time: Monday, 9 December 2024, 13:40 – 17:30 EST  
-Location:  Washington Convention Center, Hall D (Poster Hall)  
-Point of Contact: Julie Lowndes
-[Link to program entry.](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1708480)
 
-Abstract ID: 1709763  
-Abstract Title: Including more solutions and more solvers via actionable open science  
-Presentation Type: Poster  
-Session: IN13A: Flourishing Science Commons: Data Science, Open Science, and Knowledge Communities Poster  
-Date & Time: Monday, 9 December 2024, 13:40 – 17:30 EST  
-Location:  Washington Convention Center, Hall D (Poster Hall)  
-Point of Contact: Julie Lowndes
-[Link to program entry.](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1709763)
+Monday, 9 December 2024, 13:40 – 17:30 EST
+Washington Convention Center, Hall D (Poster Hall)
+
+</details>
+
+<details>
+<summary>Poster: Including more solutions and more solvers via actionable open science. 13:40 – 17:30 EST.  Point of Contact: Julie Lowndes
+</summary> 
+  
+<https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1709763>
+Session: IN13A: Flourishing Science Commons: Data Science, Open Science, and Knowledge Communities Poster
+
+Monday, 9 December 2024, 13:40 – 17:30 EST  
+Washington Convention Center, Hall D (Poster Hall)  
+
+</details>
 
 ## Wednesday Dec 11
 
-Your Abstract Details:  
-Abstract ID: 1706883  
-Abstract Title: The earthaccess Python Library: Awesome Discovery and Access of NASA Earthdata  
-Presentation Type: Poster  
+<details>
+<summary>Poster: The earthaccess Python Library: Awesome Discovery and Access of NASA Earthdata. 08:30 – 12:20 EST.  Point of Contact: Amy Steiker
+</summary> 
+  
+<https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1706883>
 Session: IN31E: Showcasing Your Earth Data Products, Tools, and Services III Poster  
-Date & Time: Wednesday, 11 December 2024, 08:30 – 12:20 EST  
-Location:  Washington Convention Center, Hall D (Poster Hall)  
-Point of Contact: Amy Steiker
-[Link to program entry.](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1706883)
+
+Wednesday, 11 December 2024, 08:30 – 12:20 EST  
+Washington Convention Center, Hall D (Poster Hall)  
+
+</details>
