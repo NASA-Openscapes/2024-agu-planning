@@ -39,7 +39,7 @@ Washington Convention Center, Hall D (Poster Hall)
 <https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1526184>
 Session: A21I - Geostationary Satellite Observations of Atmospheric Composition II Poster 
 
-Tuesday, 10 December 2024, 08:30 - 12:20 EST EST
+Tuesday, 10 December 2024, 08:30 - 12:20 EST
 Hall B-C (Poster Hall) (Convention Center)
 
 </details>
