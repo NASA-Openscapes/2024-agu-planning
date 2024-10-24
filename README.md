@@ -10,6 +10,8 @@ Below is information workshops, talks, posters, and demos by the NASA Openscapes
 
 See also Dec 14 Pangeo meeting hackday: https://discourse.pangeo.io/t/post-agu-pangeo-working-meeting-december-14-2024-in-washington-dc/4440
 
+[Poster Requirements](https://www.agu.org/annual-meeting/present#overview#poster-requirements)
+
 ## Monday Dec 09
 
 <details>
