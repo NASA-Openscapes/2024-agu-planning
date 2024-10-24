@@ -46,7 +46,7 @@ Washington Convention Center, Hall D (Poster Hall)
 ## Tuesday Dec 10
 
 <details>
-<summary>Poster: Comparison of gas columns retrieved by TEMPO and Pandora – ASDC tools and results. 08:30 - 12:20 EST. Point of Contact: Daniel Kaufman
+<summary>Poster: Comparison of gas columns retrieved by TEMPO and Pandora – ASDC tools and results. 08:30 - 12:20 EST. Point of Contact: Daniel Kaufman (NASA ASDC) and Hazem Mahmoud (NASA ASDC)
 </summary> 
   
 <https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1526184>
@@ -74,7 +74,7 @@ Washington Convention Center, Hall D (Poster Hall)
 ## Thursday Dec 12
 
 <details>
-<summary>Talk: Chaining together Data Transformations in the Cloud for TEMPO Air Quality Measurements (Invited). 15:20 - 15:30 EST.  Point of Contact: Daniel Kaufman
+<summary>Talk: Chaining together Data Transformations in the Cloud for TEMPO Air Quality Measurements (Invited). 15:20 - 15:30 EST.  Point of Contact: Daniel Kaufman (NASA ASDC), Hazem Mahmoud (NASA ASDC), and Matt Tisdale (NASA ASDC)
 </summary> 
   
 <https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1748985>
