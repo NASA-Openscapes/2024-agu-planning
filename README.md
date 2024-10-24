@@ -1,8 +1,14 @@
 # Activities by NASA Openscapes folks and collaborators
 
-To be filled out as we have information, like we did in 2023: https://github.com/NASA-Openscapes/2023-planning-agu/
+[**AGU Searchable Schedule**](https://agu.confex.com/agu/agu24/meetingapp.cgi/Home/0)
 
-Dec 14 (Saturday before) Pangeo meeting hackday: https://discourse.pangeo.io/t/post-agu-pangeo-working-meeting-december-14-2024-in-washington-dc/4440
+This repo is for high-level planning for AGU December 9-13, 2024, in Washington DC
+
+Below is information workshops, talks, posters, and demos by the NASA Openscapes Mentors and collaborators.
+
+[Abstracts](https://docs.google.com/document/d/1RbuVA66X4Rl9MQhfYhZJh-RFFTM9uYGxtrox7KDwi8o/edit#heading=h.eonz7sl9ca5m)
+
+See also Dec 14 Pangeo meeting hackday: https://discourse.pangeo.io/t/post-agu-pangeo-working-meeting-december-14-2024-in-washington-dc/4440
 
 ## Monday Dec 09
 
@@ -24,6 +30,7 @@ Ballroom A (Convention Center)
 </summary> 
   
 <https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1708480>
+
 Session: U13A: Accelerating Scientific Discovery and Interdisciplinary Collaboration Through Cloud Computing Hubs and Tools II Poster  
 
 Monday, 9 December 2024, 13:40 – 17:30 EST
@@ -36,6 +43,7 @@ Washington Convention Center, Hall D (Poster Hall)
 </summary> 
   
 <https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1709763>
+
 Session: IN13A: Flourishing Science Commons: Data Science, Open Science, and Knowledge Communities Poster
 
 Monday, 9 December 2024, 13:40 – 17:30 EST  
@@ -50,6 +58,7 @@ Washington Convention Center, Hall D (Poster Hall)
 </summary> 
   
 <https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1526184>
+
 Session: A21I - Geostationary Satellite Observations of Atmospheric Composition II Poster 
 
 Tuesday, 10 December 2024, 08:30 - 12:20 EST
@@ -64,6 +73,7 @@ Hall B-C (Poster Hall) (Convention Center)
 </summary> 
   
 <https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1706883>
+
 Session: IN31E: Showcasing Your Earth Data Products, Tools, and Services III Poster  
 
 Wednesday, 11 December 2024, 08:30 – 12:20 EST  
@@ -78,6 +88,7 @@ Washington Convention Center, Hall D (Poster Hall)
 </summary> 
   
 <https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1748985>
+
 Session: IN43D - Transformative Earth Science Data: The Tools/Services and Innovations Driving Timely and Impactful Research, Analysis, and Decision-Making II Oral
 
 Thursday, 12 December 2024, 15:20 - 15:30 EST
@@ -91,6 +102,7 @@ Marquis 12-13 (Marriott Marquis)
 </summary> 
   
 <https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1621791>
+
 Session: [ED52C: Reflections on Open Science: Sharing Stories, Progress, and Lessons Learned II Oral](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/236714)
 
 Friday, 13 December 2024, 10:20 – 11:50 EST
