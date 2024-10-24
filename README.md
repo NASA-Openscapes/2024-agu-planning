@@ -82,6 +82,7 @@ Session: IN43D - Transformative Earth Science Data: The Tools/Services and Innov
 
 Thursday, 12 December 2024, 15:20 - 15:30 EST
 Marquis 12-13 (Marriott Marquis)
+</details>
   
 ## Friday Dec 13
 
