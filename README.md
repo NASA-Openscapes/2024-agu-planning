@@ -43,6 +43,20 @@ Washington Convention Center, Hall D (Poster Hall)
 
 </details>
 
+## Tuesday Dec 10
+
+<details>
+<summary>Poster: Comparison of gas columns retrieved by TEMPO and Pandora – ASDC tools and results. 08:30 - 12:20 EST. Point of Contact: Daniel Kaufman
+</summary> 
+  
+<https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1526184>
+Session: A21I - Geostationary Satellite Observations of Atmospheric Composition II Poster 
+
+Tuesday, 10 December 2024, 08:30 - 12:20 EST
+Hall B-C (Poster Hall) (Convention Center)
+
+</details>
+
 ## Wednesday Dec 11
 
 <details>
@@ -57,6 +71,18 @@ Washington Convention Center, Hall D (Poster Hall)
 
 </details>
 
+## Thursday Dec 12
+
+<details>
+<summary>Talk: Chaining together Data Transformations in the Cloud for TEMPO Air Quality Measurements (Invited). 15:20 - 15:30 EST.  Point of Contact: Daniel Kaufman
+</summary> 
+  
+<https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1748985>
+Session: IN43D - Transformative Earth Science Data: The Tools/Services and Innovations Driving Timely and Impactful Research, Analysis, and Decision-Making II Oral
+
+Thursday, 12 December 2024, 15:20 - 15:30 EST
+Marquis 12-13 (Marriott Marquis)
+  
 ## Friday Dec 13
 
 <details>
