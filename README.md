@@ -83,6 +83,18 @@ Washington Convention Center, Hall D (Poster Hall)
 
 </details>
 
+<details>
+<summary>Poster: "PACE Hackweek: An open community keeping up with PACE" @ 08:30 – 12:20 EST; Point of Contact: Ian Carroll (NASA/GSFC, UMBC)</summary>
+  
+https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1577974
+
+Session: ED31G - Reflections on Open Science: Sharing Stories, Progress, and Lessons Learned I - Poster
+
+Wednesday, 11 December 2024, 08:30 – 12:20 EST  
+Washington Convention Center, Hall B-C (Poster Hall)  
+
+</details>
+
 ## Thursday Dec 12
 
 <details>
