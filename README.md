@@ -8,11 +8,23 @@ Below is information workshops, talks, posters, and demos by the NASA Openscapes
 
 [Abstracts](https://docs.google.com/document/d/1RbuVA66X4Rl9MQhfYhZJh-RFFTM9uYGxtrox7KDwi8o/edit#heading=h.eonz7sl9ca5m)
 
-See also Dec 14 Pangeo meeting hackday: https://discourse.pangeo.io/t/post-agu-pangeo-working-meeting-december-14-2024-in-washington-dc/4440
-
 [Poster Requirements](https://www.agu.org/annual-meeting/present#overview#poster-requirements)
 
+<details>
+<summary>When are people there?
+</summary> 
+
+
+- Cassie: Tuesday - Thursday (mostly representing SWOT though Tuesday)
+- Julie: Sunday night - Saturday evening
+- Chris: Monday - Tuesday
+- Alex: Monday - Tuesday
+
+</details>
+
 ## Monday Dec 09
+
+**Talks**
 
 <details>
 <summary>Talk: `py-rocket`: A Docker image to promote cross-language (Python, R) collaboration across diverse user platforms for cloud computing in the earth sciences (Invited). 09:35 - 09:45 EST. Point of Contact: Eli Holmes (NOAA Fisheries), Carl Boettiger (UC Berkeley), Luis López (NASA NSIDC)
@@ -27,6 +39,8 @@ Ballroom A (Convention Center)
 
 </details>
 
+**Posters**
+
 <details>
 <summary>Poster: Supporting NASA Earthdata users in the Cloud: NASA Openscapes JupyterHub and User Onboarding & Fledging. 13:40 – 17:30 EST. Point of Contact: Julie Lowndes (Openscapes)
 </summary> 
@@ -37,6 +51,8 @@ Session: U13A: Accelerating Scientific Discovery and Interdisciplinary Collabora
 
 Monday, 9 December 2024, 13:40 – 17:30 EST
 Washington Convention Center, Hall D (Poster Hall)
+
+People to help present the poster: 
 
 </details>
 
@@ -51,9 +67,23 @@ Session: IN13A: Flourishing Science Commons: Data Science, Open Science, and Kno
 Monday, 9 December 2024, 13:40 – 17:30 EST  
 Washington Convention Center, Hall D (Poster Hall)  
 
+People to help present the poster: 
+
 </details>
 
+### Monday Mentor Happy Hour
+
+Mentors will meet up post workshops for a no-host happy hour (pay your own way) - colleagues, friends, family, are welcome!
+
+Where: TBD
+
+When: 6pm ish!
+
+Everyone welcome, share with NASA ESDS, DAAC colleagues, Carpentries, 2i2c, Pangeo, rstats, MATLAB, NOAA, EPA, friends, family
+
 ## Tuesday Dec 10
+
+**Posters** 
 
 <details>
 <summary>Poster: Comparison of gas columns retrieved by TEMPO and Pandora – ASDC tools and results. 08:30 - 12:20 EST. Point of Contact: Daniel Kaufman (NASA ASDC) and Hazem Mahmoud (NASA ASDC)
@@ -70,6 +100,7 @@ Hall B-C (Poster Hall) (Convention Center)
 
 ## Wednesday Dec 11
 
+**Posters**
 <details>
 <summary>Poster: The earthaccess Python Library: Awesome Discovery and Access of NASA Earthdata. 08:30 – 12:20 EST.  Point of Contact: Amy Steiker (NASA NSIDC)
 </summary> 
@@ -80,6 +111,8 @@ Session: IN31E: Showcasing Your Earth Data Products, Tools, and Services III Pos
 
 Wednesday, 11 December 2024, 08:30 – 12:20 EST  
 Washington Convention Center, Hall D (Poster Hall)  
+
+People to help present the poster: Luis López, Michele Thornton, Julie Lowndes
 
 </details>
 
@@ -97,6 +130,8 @@ Washington Convention Center, Hall B-C (Poster Hall)
 
 ## Thursday Dec 12
 
+**Talks**
+
 <details>
 <summary>Talk: Chaining together Data Transformations in the Cloud for TEMPO Air Quality Measurements (Invited). 15:20 - 15:30 EST.  Point of Contact: Daniel Kaufman (NASA ASDC), Hazem Mahmoud (NASA ASDC), and Matt Tisdale (NASA ASDC)
 </summary> 
@@ -111,6 +146,8 @@ Marquis 12-13 (Marriott Marquis)
   
 ## Friday Dec 13
 
+**Talks**
+
 <details>
 <summary> Talk: Cultivating open and collaborative data science at a U.S. EPA research center. 10:20 – 11:50 EST. Point of Contact: Gayle Hagler (EPA)
 </summary> 
@@ -123,3 +160,10 @@ Friday, 13 December 2024, 10:20 – 11:50 EST
 Marriott Marquis, Marquis 12-13
 
 </details>
+
+## Saturday Dec 14
+
+**Hackday with Pangeo**: We'll join Pangeo hackday to meet and work with other awesome open science/cloud/geospatial folks!
+
+https://discourse.pangeo.io/t/post-agu-pangeo-working-meeting-december-14-2024-in-washington-dc/4440
+
