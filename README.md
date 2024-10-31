@@ -52,7 +52,7 @@ Session: U13A: Accelerating Scientific Discovery and Interdisciplinary Collabora
 Monday, 9 December 2024, 13:40 – 17:30 EST
 Washington Convention Center, Hall D (Poster Hall)
 
-People to help present the poster: 
+People to help present the poster: Alex Lewandowski, Julie Lowndes
 
 </details>
 
