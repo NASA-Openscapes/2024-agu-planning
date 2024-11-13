@@ -71,6 +71,19 @@ People to help present the poster:
 
 </details>
 
+<details>
+<summary>Poster: Improving Educational Content Delivery in JupyterLab with Jupyter Book and the jupyterlab-jupyterbook-navigation Server Extension. 13:40 – 17:30 EST. Point of Contact: Alex Lewandowski (Alaska Satellite Facility)
+
+</summary> 
+  
+<https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1717476>
+
+Monday, 9 December 2024, 13:40 – 17:30 EST
+Washington Convention Center, Hall B-C (Poster Hall)
+
+</details>
+
+
 ### Monday Mentor Happy Hour
 
 Mentors will meet up post workshops for a no-host happy hour (pay your own way) - colleagues, friends, family, are welcome!
@@ -125,6 +138,18 @@ Session: ED31G - Reflections on Open Science: Sharing Stories, Progress, and Les
 
 Wednesday, 11 December 2024, 08:30 – 12:20 EST  
 Washington Convention Center, Hall B-C (Poster Hall)  
+
+</details>
+
+<details>
+<summary>Poster: OpenScienceLab: An Ecosystem of JupyterHubs Built for NISAR Data. 08:30 – 12:20 EST. Point of Contact: Sargent Shriver (Alaska Satellite Facility)
+
+</summary> 
+  
+<https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1702873>
+
+Wednesday, 11 December 2024, 08:30 – 12:20 EST
+Washington Convention Center, Hall B-C (Poster Hall)
 
 </details>
 
