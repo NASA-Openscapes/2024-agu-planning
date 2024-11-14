@@ -111,6 +111,34 @@ Hall B-C (Poster Hall) (Convention Center)
 
 </details>
 
+<details>
+<summary>Poster: Enabling Access and Utilization of NASA's EMIT Imaging Spectroscopy Data for Hyperspectral Remote Sensing Applications. 08:30 - 12:20 EST.  
+Point of Contact: Aaron Friesz, Erik Bolch, Mahsa Jami, Cole Krehbiel  (NASA LP DAAC)
+</summary> 
+  
+<https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1711664>
+
+Session: B21L - Hyperspectral Remote Sensing and Machine Learning for Precision Agriculture Poster
+
+Tuesday, 10 December 2024, 08:30 - 12:20
+Hall B-C (Poster Hall) (Convention Center)
+</details>
+
+**Talks**
+
+<details>
+<summary>Talk: Making Geospatial Data Easier to Access: NASA Earthdata’s Application for Extracting and Exploring Analysis Ready Samples (AρρEEARS). 14:22 - 14:25 EST.  
+Point of Contact: Cole Krehbiel, Erik Bolch, Mahsa Jami, Aaron Friesz  (NASA LP DAAC)
+</summary> 
+  
+<https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1621853>
+
+Session: IN23E - Showcasing Your Earth Data Products, Tools, and Services I eLightning
+
+Tuesday, 10 December 2024, 14:22 - 14:25 EST.
+eLightning Theater 4 (Convention Center)
+</details>
+
 ## Wednesday Dec 11
 
 **Posters**
@@ -153,6 +181,19 @@ Washington Convention Center, Hall B-C (Poster Hall)
 
 </details>
 
+<details>
+<summary>Talk: The VITALS GitHub Repository: Python Resources for Working with EMIT and ECOSTRESS Data. 11:00 - 11:10 EST.  
+Point of Contact:  Erik Bolch, Mahsa Jami, Cole Krehbiel, Aaron Friesz  (NASA LP DAAC)
+</summary> 
+  
+<https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1677641>
+
+Session: GC32A - Advancing Global Imaging Spectroscopy and Thermal Infrared Measurements, Including Results from ECOSTRESS, EMIT, SBG, and Others II Oral
+
+Wednesday, 11 December 2024, 11:00 - 11:10 EST.
+Salon C (Convention Center)
+</details>
+
 ## Thursday Dec 12
 
 **Talks**
@@ -168,6 +209,20 @@ Session: IN43D - Transformative Earth Science Data: The Tools/Services and Innov
 Thursday, 12 December 2024, 15:20 - 15:30 EST
 Marquis 12-13 (Marriott Marquis)
 </details>
+
+<details>
+<summary>Talk: Simplifying Data Access: AppEEARS and Python Resources for Working with Biodiversity-relevant Remote Sensing Data. 11:10 – 11:20 EST.  
+Point of Contact: Mahsa Jami, Erik Bolch, Cole Krehbiel, Aaron Friesz  (NASA LP DAAC)
+</summary> 
+  
+<https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1676889>
+
+Session: B42A: Advances in Remote Sensing for Monitoring Biodiversity Change: Integrating Data and Models Across Scales and Technologies
+
+Thursday, 12 December 2024, 11:10 – 11:20 EST
+151 A (Convention Center)
+</details>
+
   
 ## Friday Dec 13
 
