@@ -241,6 +241,19 @@ Marriott Marquis, Marquis 12-13
 
 </details>
 
+<details>
+<summary> Talk: 15 minutes to publish: Building a cloud-native, low-latency processing application for ITS_LIVE. 16:00 - 16:10 EST. Point of Contact: Joseph H. Kennedy (ASF, UAF)
+</summary> 
+  
+<https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1657429>
+
+Session: [IN54A: Earth Science Data Access and Discovery and the Cloud: Past, Present, and Future II Oral](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/240600)
+
+Friday, 13 December 2024, 16:00 - 16:10 EST
+Marriott Marquis, Marquis 3-4
+
+</details>
+
 ## Saturday Dec 14
 
 **Hackday with Pangeo**: We'll join Pangeo hackday to meet and work with other awesome open science/cloud/geospatial folks!
