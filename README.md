@@ -20,7 +20,8 @@ Below is information workshops, talks, posters, and demos by the NASA Openscapes
 - Chris: Monday - Tuesday
 - Alex: Monday - Tuesday
 - Joseph H. Kennedy: Thursday before (Dec. 5) - Saturday after (Dec. 14)
-
+- Cassie Buhler: Sunday - Friday
+  
 </details>
 
 ## Monday Dec 09
@@ -237,6 +238,20 @@ Thursday, 12 December 2024, 11:10 – 11:20 EST
 
   
 ## Friday Dec 13
+
+**Posters**
+<details>
+<summary>Poster: Exploring Innovation in Biodiversity Conservation Decision-Making Through Open Science and Generative AI. 08:30 – 12:20 EST.  Point of Contact: Cassie Buhler (ESIIL, CU Boulder)
+</summary> 
+
+<https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1639129>
+
+Session: [IN51D - A Vision for What's Next: NASA’s Evolving Data, Software, and Science I Poster](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/226588)
+
+Friday, 13 December 2024, 08:30 - 12:20 EST  
+Washington Convention Center, Hall B-C (Poster Hall)
+
+</details>
 
 **Talks**
 
