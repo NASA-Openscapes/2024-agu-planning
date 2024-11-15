@@ -4,7 +4,7 @@
 
 This repo is for high-level planning for AGU December 9-13, 2024, in Washington DC
 
-Below is information workshops, talks, posters, and demos by the NASA Openscapes Mentors and collaborators.
+Below is information workshops, talks, posters, and demos by the NASA Openscapes Mentors and collaborators. Expanding a talk or poster item below reveals an AGU link for full author list, abstract, time, and location.
 
 [Abstracts](https://docs.google.com/document/d/1RbuVA66X4Rl9MQhfYhZJh-RFFTM9uYGxtrox7KDwi8o/edit#heading=h.eonz7sl9ca5m)
 
