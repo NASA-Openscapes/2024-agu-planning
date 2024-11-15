@@ -39,6 +39,17 @@ Ballroom A (Convention Center)
 
 </details>
 
+<details>
+<summary>eLightning Talk: NOAA PolarWatch: Transforming Polar Research through Commitment to FAIR Practice and Collaboration. 16:03 - 16:06 EST. Point of Contact: Sunny Hospital (NOAA PolarWatch)
+</summary> 
+  
+<https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1518760>
+
+Monday, 9 December 2024, 16:03 - 16:06 EST
+eLightning Theater 2 (Convention Center)
+
+</details>
+
 **Posters**
 
 <details>
