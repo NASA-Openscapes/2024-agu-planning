@@ -11,7 +11,7 @@ Below is information workshops, talks, posters, and demos by the NASA Openscapes
 [Poster Requirements](https://www.agu.org/annual-meeting/present#overview#poster-requirements)
 
 <details>
-<summary>When are people there?
+<summary>When are people there? Please add yourself!
 </summary> 
 
 
