@@ -19,6 +19,7 @@ Below is information workshops, talks, posters, and demos by the NASA Openscapes
 - Julie: Sunday night - Saturday evening
 - Chris: Monday - Tuesday
 - Alex: Monday - Tuesday
+- Joseph H. Kennedy: Thursday before (Dec. 5) - Saturday after (Dec. 14)
 
 </details>
 
