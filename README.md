@@ -21,6 +21,7 @@ Below is information workshops, talks, posters, and demos by the NASA Openscapes
 - Alex: Monday - Tuesday
 - Joseph H. Kennedy: Thursday before (Dec. 5) - Saturday after (Dec. 14)
 - Cassie Buhler: Sunday - Friday
+- Ian Carroll: Monday - Saturday
   
 </details>
 
