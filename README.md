@@ -22,6 +22,7 @@ Below is information workshops, talks, posters, and demos by the NASA Openscapes
 - Joseph H. Kennedy: Thursday before (Dec. 5) - Saturday after (Dec. 14)
 - Cassie Buhler: Sunday - Friday
 - Ian Carroll: Monday - Saturday
+- Luis Lopez: Sunday to Sunday
   
 </details>
 
@@ -155,6 +156,21 @@ eLightning Theater 4 (Convention Center)
 
 ## Wednesday Dec 11
 
+**Talks**
+<details>
+<summary>Talk: The VITALS GitHub Repository: Python Resources for Working with EMIT and ECOSTRESS Data. 11:00 - 11:10 EST.  
+Point of Contact:  Erik Bolch, Mahsa Jami, Cole Krehbiel, Aaron Friesz  (NASA LP DAAC)
+</summary> 
+  
+<https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1677641>
+
+Session: GC32A - Advancing Global Imaging Spectroscopy and Thermal Infrared Measurements, Including Results from ECOSTRESS, EMIT, SBG, and Others II Oral
+
+Wednesday, 11 December 2024, 11:00 - 11:10 EST.
+Salon C (Convention Center)
+</details>
+
+
 **Posters**
 <details>
 <summary>Poster: The earthaccess Python Library: Awesome Discovery and Access of NASA Earthdata. 08:30 – 12:20 EST.  Point of Contact: Amy Steiker (NASA NSIDC)
@@ -196,16 +212,29 @@ Washington Convention Center, Hall B-C (Poster Hall)
 </details>
 
 <details>
-<summary>Talk: The VITALS GitHub Repository: Python Resources for Working with EMIT and ECOSTRESS Data. 11:00 - 11:10 EST.  
-Point of Contact:  Erik Bolch, Mahsa Jami, Cole Krehbiel, Aaron Friesz  (NASA LP DAAC)
-</summary> 
+<summary>Poster: Evaluating Cloud-Optimized HDF5 for NASA’s ICESat-2 Mission. 08:30 - 12:20 EST
+Point of Contact: Luis Lopez (NASA NSIDC)
+</summary>
   
-<https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1677641>
+<https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1598979>
 
-Session: GC32A - Advancing Global Imaging Spectroscopy and Thermal Infrared Measurements, Including Results from ECOSTRESS, EMIT, SBG, and Others II Oral
+Session: IN31C - Coping with the Data Deluge Poster
 
-Wednesday, 11 December 2024, 11:00 - 11:10 EST.
-Salon C (Convention Center)
+Wednesday, 11 December 2024, 08:30 - 12:20 EST
+Washington Convention Center, Hall B-C (Poster Hall)
+</details>
+
+<details>
+<summary>Poster: Enabling Rapid Access to NASA Earthdata: A SWOT Sea Surface Height Example. 08:30 - 12:20 EST
+Point of Contact:  Ayush Nag (University of Washington, NASA JPL)
+</summary>
+  
+<https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1677256>
+
+Session: IN31E - Showcasing Your Earth Data Products, Tools, and Services III Poster
+
+Wednesday, 11 December 2024, 08:30 - 12:20 EST
+Washington Convention Center, Hall B-C (Poster Hall)
 </details>
 
 ## Thursday Dec 12
