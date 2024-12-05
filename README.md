@@ -102,13 +102,15 @@ Washington Convention Center, Hall B-C (Poster Hall)
 
 ### Monday Mentor Happy Hour
 
-Mentors will meet up post workshops for a no-host happy hour (pay your own way) - colleagues, friends, family, are welcome!
+✨ **Openscapes social gathering, please join us!** ✨
 
-Where: TBD
+Openscapes folks will meet up for a no-host happy hour and food (pay your own way). Mentors, Champions, colleagues, friends, family, are welcome! 
 
-When: 6pm ish!
+**Where: [The Exchange Saloon](https://www.theexchangesaloon.com/), 1719 G St NW, Washington, DC 20006.** This is a 30-min walk from the conference venue, passing The White House.
 
-Everyone welcome, share with NASA ESDS, DAAC colleagues, Carpentries, 2i2c, Pangeo, rstats, MATLAB, NOAA, EPA, friends, family
+**When: 6pm on!** Ask for the Openscapes group.
+
+Everyone welcome, share with NASA ESDIS, DAAC colleagues, Carpentries, 2i2c, Pangeo, rstats, MATLAB, NOAA, EPA, friends, family! Looking forward to having some time together to kick off AGU! Let's remember to take a group photo!
 
 ## Tuesday Dec 10
 
