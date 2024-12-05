@@ -23,6 +23,7 @@ Below is information workshops, talks, posters, and demos by the NASA Openscapes
 - Cassie Buhler: Sunday - Friday
 - Ian Carroll: Monday - Saturday
 - Luis Lopez: Sunday to Sunday
+- Mahsa Jami: Sunday to Friday
   
 </details>
 
