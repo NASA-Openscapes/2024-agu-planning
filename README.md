@@ -130,8 +130,8 @@ Hall B-C (Poster Hall) (Convention Center)
 </details>
 
 <details>
-<summary>Poster: Enabling Access and Utilization of NASA's EMIT Imaging Spectroscopy Data for Hyperspectral Remote Sensing Applications. 08:30 - 12:20 EST.  
-Point of Contact: Aaron Friesz, Erik Bolch, Mahsa Jami, Cole Krehbiel  (NASA LP DAAC)
+<summary><b>WITHDRAWN - </b><s>Poster: Enabling Access and Utilization of NASA's EMIT Imaging Spectroscopy Data for Hyperspectral Remote Sensing Applications. 08:30 - 12:20 EST.  
+Point of Contact: Aaron Friesz, Erik Bolch, Mahsa Jami, Cole Krehbiel  (NASA LP DAAC)</s>
 </summary> 
   
 <https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1711664>
