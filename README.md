@@ -134,12 +134,12 @@ Hall B-C (Poster Hall) (Convention Center)
 Point of Contact: Aaron Friesz, Erik Bolch, Mahsa Jami, Cole Krehbiel  (NASA LP DAAC)</s>
 </summary> 
   
-<https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1711664>
+<s><https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1711664>
 
 Session: B21L - Hyperspectral Remote Sensing and Machine Learning for Precision Agriculture Poster
 
 Tuesday, 10 December 2024, 08:30 - 12:20
-Hall B-C (Poster Hall) (Convention Center)
+Hall B-C (Poster Hall) (Convention Center)</s>
 </details>
 
 **Talks**
