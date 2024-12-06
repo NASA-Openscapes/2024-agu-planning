@@ -106,7 +106,7 @@ Washington Convention Center, Hall B-C (Poster Hall)
 
 Openscapes folks will meet up for a no-host happy hour and food (pay your own way). Mentors, Champions, colleagues, friends, family, are welcome! 
 
-**Where: [The Exchange Saloon](https://www.theexchangesaloon.com/), 1719 G St NW, Washington, DC 20006.** This is a 30-min walk from the conference venue, passing The White House.
+**Where: [The Exchange Saloon](https://www.theexchangesaloon.com/), 1719 G St NW, Washington, DC 20006.** ([**map**](https://maps.app.goo.gl/TwcCwjdPmEARjqFa8)). This is a 30-min walk from the conference venue, passing The White House.
 
 **When: 6pm on!** Ask for the Openscapes group.
 
