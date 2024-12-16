@@ -173,6 +173,18 @@ Wednesday, 11 December 2024, 11:00 - 11:10 EST.
 Salon C (Convention Center)
 </details>
 
+<details>
+<summary>Talk: Beyond Open Data: Ensuring True Accessibility for All. 16:00 - 16:10 EST.  
+Point of Contact:  Brianna Pagán [note: Julie Lowndes presented]
+</summary> 
+  
+<https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1522970>
+
+Session: IN34A - Showcasing Your Earth Data Products, Tools, and Services V Oral
+
+Wednesday, 11 December 2024, 16:00 - 16:10 EST.
+</details>
+
 
 **Posters**
 <details>
